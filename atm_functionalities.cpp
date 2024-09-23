@@ -173,7 +173,7 @@ int main()
 
 				default:							
 					cout << endl << "Enter Valid Data !!!";
-                    _getch();
+                                        _getch();
 				}
 
 			} while (1);
